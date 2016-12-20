@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 """
-
+Deep Recurrent Neural Network for Human Activity Recognition
 """
 
 from __future__ import print_function

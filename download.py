@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 """
-
+Human Activity Sensing Consortiumからデータを拝借
 """
 
 import zipfile
